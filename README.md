@@ -16,8 +16,6 @@ https://translate-language-app.netlify.app/
 
 ---
 
----
-
 ## Tech Stack Used : -
 
 <li>HTML</li>
